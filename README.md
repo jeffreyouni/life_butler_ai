@@ -6,6 +6,19 @@
 
 Life Butler is a privacy-first, local-first personal life management system that transforms how you organize, query, and gain insights from your daily activities. Built with Flutter for beautiful desktop experiences and powered by cutting-edge RAG (Retrieval-Augmented Generation) technology, it's your intelligent companion for managing everything from health records to financial planning.
 
+![Dashboard](.\readme\images\dashboard.png)
+
+![Smart AI Screen](.\readme\images\smart_ai_screen.png)
+
+![Smart AI Response](.\readme\images\smart_ai_response.png)
+
+![Events Screen](.\readme\images\events_screen.png)
+
+![Education Screen](.\readme\images\education_screen.png)
+
+![Finance Screen](.\readme\images\finance_screen.png)
+
+
 ## 🚀 Quick Start (Development)
 
 ### Manual Setup
