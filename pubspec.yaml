@@ -1,0 +1,15 @@
+name: life_butler_ai
+description: Life Butler AI - Personal life memory and advice system
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  http: ^1.2.1
+  sqlite3: ^2.9.0
+
+dev_dependencies:
+  test: ^1.24.0
+
+# This is a monorepo root - actual dependencies are in packages and apps

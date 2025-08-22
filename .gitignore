@@ -1,0 +1,151 @@
+# =========================
+# Dependencies / Locks
+# =========================
+# Packages: ignore lock
+packages/**/pubspec.lock
+
+# Apps: keep lock (do NOT ignore)
+# (根目录是 package 才忽略下一行；如是 app 请保留提交)
+# pubspec.lock
+
+# Node (如项目含前端工具链)
+node_modules/
+
+# =========================
+# Flutter / Dart tool dirs
+# =========================
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub/
+.pub-cache/
+
+# =========================
+# Build outputs
+# =========================
+build/
+**/build/
+**/flutter_assets/
+**/native_assets/
+
+# =========================
+# Android
+# =========================
+**/android/.gradle/
+**/android/app/build/
+**/android/local.properties
+**/android/key.properties
+*.keystore
+*.jks
+
+# =========================
+# iOS
+# =========================
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/ephemeral/
+**/ios/Runner.xcworkspace/
+# 推荐提交 Podfile.lock 以复现依赖；若要忽略，取消注释下一行
+# **/ios/Podfile.lock
+
+# =========================
+# Desktop
+# =========================
+**/macos/Flutter/ephemeral/
+**/windows/flutter/ephemeral/
+**/linux/flutter/ephemeral/
+
+# =========================
+# Web
+# =========================
+# 如需：可忽略 web/.dart_tool
+# **/web/.dart_tool/
+
+# =========================
+# IDE / Project files
+# =========================
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+.metadata
+.github/
+.githooks/
+copilot-instructions.md
+
+# =========================
+# Environment
+# =========================
+.env
+.env.local
+.env.production
+.env.development
+
+# =========================
+# Databases
+# =========================
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Coverage
+# =========================
+coverage/
+*.lcov
+
+# =========================
+# Generated Dart files
+# =========================
+*.g.dart
+*.freezed.dart
+*.mocks.dart
+*.config.dart
+
+# =========================
+# Tools output
+# =========================
+tools/
+
+# =========================
+# Logs / Debug
+# =========================
+*.log
+debug.txt
+error.txt
+crash.log
+
+# =========================
+# Temp / Cache / Backups
+# =========================
+tmp/
+temp/
+cache/
+.cache/
+*.bak
+*.backup
+*.orig
+*.tmp
+
+# =========================
+# Archives
+# =========================
+*.zip
+*.rar
+*.7z
+*.tar.gz

@@ -1,0 +1,14 @@
+name: core
+description: Core domain models, KG interfaces, RAG pipeline, and advice engine
+version: 1.0.0
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  collection: ^1.18.0
+  uuid: ^4.3.3
+  meta: ^1.11.0
+
+dev_dependencies:
+  test: ^1.24.0

@@ -1,0 +1,15 @@
+name: providers_llm
+description: LLM provider abstractions for Ollama
+version: 1.0.0
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  http: ^1.2.1
+  meta: ^1.11.0
+  core:
+    path: ../core
+
+dev_dependencies:
+  test: ^1.24.0
