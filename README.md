@@ -2,7 +2,11 @@
 
 [中文](README_zh.md)
 
-🤖 **Your Personal## 🚀 Quick Start (Development)
+🤖 **Your Personal Life Assistant**
+
+Life Butler is a privacy-first, local-first personal life management system that transforms how you organize, query, and gain insights from your daily activities. Built with Flutter for beautiful desktop experiences and powered by cutting-edge RAG (Retrieval-Augmented Generation) technology, it's your intelligent companion for managing everything from health records to financial planning.
+
+## 🚀 Quick Start (Development)
 
 ### Manual Setup
 
