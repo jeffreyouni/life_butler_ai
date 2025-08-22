@@ -4,18 +4,17 @@
 
 Life Butler AI 是一个隐私优先、本地优先的个人生活管理系统，它将彻底改变您组织、查询和从日常活动中获得见解的方式。采用 Flutter 构建精美的桌面体验，并由尖端的 RAG（检索增强生成）技术驱动，它是您管理从健康记录到财务规划等一切事务的智能伴侣。
 
-![Dashboard](.\readme\images\dashboard.png)
+![Dashboard](readme/images/dashboard.png)
 
-![Smart AI Screen](.\readme\images\smart_ai_screen.png)
+![Smart AI Screen](readme/images/smart_ai_screen.png)
 
-![Smart AI Response](.\readme\images\smart_ai_response.png)
+![Smart AI Response](readme/images/smart_ai_response.png)
 
-![Events Screen](.\readme\images\events_screen.png)
+![Events Screen](readme/images/events_screen.png)
 
-![Education Screen](.\readme\images\education_screen.png)
+![Education Screen](readme/images/education_screen.png)
 
-![Finance Screen](.\readme\images\finance_screen.png)
-
+![Finance Screen](readme/images/finance_screen.png)
 
 ## ✨ 为什么选择 Life Butler AI？
 
